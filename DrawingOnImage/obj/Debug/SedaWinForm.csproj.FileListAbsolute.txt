@@ -1,0 +1,10 @@
+C:\Users\CHELOVEK NEVIDIMKA\source\repos\SedaWinForm\SedaWinForm\bin\Debug\SedaWinForm.exe.config
+C:\Users\CHELOVEK NEVIDIMKA\source\repos\SedaWinForm\SedaWinForm\bin\Debug\SedaWinForm.exe
+C:\Users\CHELOVEK NEVIDIMKA\source\repos\SedaWinForm\SedaWinForm\bin\Debug\SedaWinForm.pdb
+C:\Users\CHELOVEK NEVIDIMKA\source\repos\SedaWinForm\SedaWinForm\obj\Debug\SedaWinForm.csprojAssemblyReference.cache
+C:\Users\CHELOVEK NEVIDIMKA\source\repos\SedaWinForm\SedaWinForm\obj\Debug\SedaWinForm.Form1.resources
+C:\Users\CHELOVEK NEVIDIMKA\source\repos\SedaWinForm\SedaWinForm\obj\Debug\SedaWinForm.Properties.Resources.resources
+C:\Users\CHELOVEK NEVIDIMKA\source\repos\SedaWinForm\SedaWinForm\obj\Debug\SedaWinForm.csproj.GenerateResource.cache
+C:\Users\CHELOVEK NEVIDIMKA\source\repos\SedaWinForm\SedaWinForm\obj\Debug\SedaWinForm.csproj.CoreCompileInputs.cache
+C:\Users\CHELOVEK NEVIDIMKA\source\repos\SedaWinForm\SedaWinForm\obj\Debug\SedaWinForm.exe
+C:\Users\CHELOVEK NEVIDIMKA\source\repos\SedaWinForm\SedaWinForm\obj\Debug\SedaWinForm.pdb
