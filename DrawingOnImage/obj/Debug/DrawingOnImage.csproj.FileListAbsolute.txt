@@ -1,7 +1,0 @@
-C:\Users\CHELOVEK NEVIDIMKA\source\repos\SedaWinForm\SedaWinForm\obj\Debug\DrawingOnImage.csprojAssemblyReference.cache
-C:\Users\CHELOVEK NEVIDIMKA\source\repos\SedaWinForm\SedaWinForm\obj\Debug\DrawingOnImage.Form1.resources
-C:\Users\CHELOVEK NEVIDIMKA\source\repos\SedaWinForm\SedaWinForm\obj\Debug\SedaWinForm.Properties.Resources.resources
-C:\Users\CHELOVEK NEVIDIMKA\source\repos\SedaWinForm\SedaWinForm\obj\Debug\DrawingOnImage.csproj.GenerateResource.cache
-C:\Users\CHELOVEK NEVIDIMKA\source\repos\SedaWinForm\SedaWinForm\obj\Debug\DrawingOnImage.csproj.CoreCompileInputs.cache
-C:\Users\CHELOVEK NEVIDIMKA\source\repos\SedaWinForm\SedaWinForm\obj\Debug\SedaWinForm.exe
-C:\Users\CHELOVEK NEVIDIMKA\source\repos\SedaWinForm\SedaWinForm\obj\Debug\SedaWinForm.pdb
